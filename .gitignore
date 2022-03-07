@@ -1,2 +1,5 @@
 # Secret Files
 secrets.yaml
+
+# Backup Git Folder
+/.git_
